@@ -1,0 +1,7 @@
+*.tar.gz
+*.dsc
+*.tar.xz
+*_source.build
+*_source.buildinfo
+*_source.changes
+*_source.ppa.upload
